@@ -1,0 +1,17 @@
+{
+    "lang": "fr-fr",
+    "name": "Fleet Management app",
+    "short_name": "Fleet Management",
+    "description": "Une application de géstion de parc automobile.",
+    "start_url": "/app",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
